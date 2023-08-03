@@ -62,7 +62,7 @@
 
 <p>
 	&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=misteredinson&show_icons=true&locale=en&layout=compact" alt="misteredinson" />
-	&nbsp;<img src="https://komarev.com/ghpvc/?username=misteredinson&label=Profile%20views&color=0e75b6&style=flat" alt="misteredinson" /> 
+	&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=misteredinson&label=Profile%20views&color=0e75b6&style=flat" alt="misteredinson" /> 
 </p>
 
 <!-- <h3 align="left">Connect with me:</h3>
