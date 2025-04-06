@@ -2,7 +2,7 @@
 	Hi 👋, My name is Edyard, I'm an android developer, I write in Kotlin
 </h4>
 <hr>
-<h4>Android developer is a very interesting area of programming that is rapidly developing. Now I am studying hard, reading books on Kotlin and working with algorithms, taking online courses on the SkillBox and Udemy platforms, and following the recommendations from Google. Constantly working on myself and my skills</h4>
+<h4>The main programming language is Kotlin, and Java is also used in my projects. In my projects, I often have to work with API, and sometimes I make the backend for my PHP applications myself, using the Laravel framework and JS - this skill remained after I switched to mobile development from web development. The profession of a programmer is about constant learning and I try to learn all the time:)</h4>
 <!-- <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=misteredinson" alt="misteredinson" />
