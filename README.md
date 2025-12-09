@@ -1,8 +1,14 @@
 <h4 align="left">
-	Hi 👋, My name is Edyard, I'm an android developer, I write in Kotlin
+	Hi 👋, My name is Edyard, I’m an Android Developer specializing in Kotlin.
 </h4>
 <hr>
-<h4>The main programming language is Kotlin, and Java is also used in my projects. In my work, I often have to deal with API, and sometimes I make the backend for my PHP applications myself, using the Laravel framework and JS - this skill remained after I moved from web development to mobile. The profession of a programmer is a constant learning, and I try to learn all the time :)</h4>
+<h4>My main stack includes Kotlin, Jetpack Compose, Coroutines, and Clean Architecture.
+I also use Java in some projects.<br><br>
+
+I frequently work with REST APIs and backend integrations.<br>
+Sometimes I build the backend myself using PHP (Laravel) and JavaScript — a skill I kept from my previous experience in web development.<br><br>
+
+I’m passionate about mobile development and constantly learning new technologies.</h4>
 <!-- <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=misteredinson" alt="misteredinson" />
